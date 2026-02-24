@@ -15,7 +15,7 @@ I’m currently pioneering several projects where AI meets code execution and se
 
 ### 🤖 AI & Developer Productivity
 * **[AI Code Assistant](https://github.com/lahiruramesh/ai-code-assistant)** An intelligent companion designed to streamline the coding workflow, moving beyond simple autocomplete to meaningful logic generation.
-* **[Archon](https://github.com/lahiruramesh/archon)** A sophisticated project scaffold/orchestrator designed to handle the heavy lifting of modern application architecture.
+* **[Archon](https://github.com/lahiruramesh/archon)** is a high-performance static analysis engine designed to secure your codebase without ever needing to run the code. By focusing on pure AST (Abstract Syntax Tree) analysis, it identifies vulnerabilities and code smells instantly.
 
 ### 🛡️ Security & Performance
 * **[Web Sec Scanner](https://github.com/lahiruramesh/web-sec-scanner)** A proactive tool for identifying vulnerabilities before they become threats. Essential for modern web compliance.

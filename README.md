@@ -1,44 +1,77 @@
 # 👋 Hi, I'm Lahiru Ramesh
 
-**Full Stack Developer | AI Enthusiast | Founder of [Sylonik](https://sylonik.se)**
+**Full Stack Engineer | AI Enthusiast | Founder of [Sylonik](https://sylonik.se)**
 
-I bridge the gap between robust Full Stack architecture and the future of AI-driven automation. Currently, I'm focused on building open-source tools that make development faster, safer, and smarter.
+I bridge the gap between robust full-stack architecture and the future of AI-driven automation. Currently, I’m focused on building open-source tools that make development faster, safer, and smarter.
 
-🎨 **Explore my work in 3D:** [lahiruramesh.me](https://www.lahiruramesh.me)
-💼 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/lahiru-ramesh/)
+🎨 **Explore my work in 3D:** https://www.lahiruramesh.me  
+💼 **Let’s connect:** https://www.linkedin.com/in/lahiru-ramesh/
 
 ---
 
 ## 🛠 Featured Open Source Projects (AI & Security)
 
-I’m currently pioneering several projects where AI meets code execution and security. Here’s what I’m building:
+I’m currently building several projects at the intersection of AI, code execution, and security.
 
 ### 🤖 AI & Developer Productivity
-* **[AI Code Assistant](https://github.com/lahiruramesh/ai-code-assistant)** An intelligent companion designed to streamline the coding workflow, moving beyond simple autocomplete to meaningful logic generation.
-* **[Archon](https://github.com/lahiruramesh/archon)** is a high-performance static analysis engine designed to secure your codebase without ever needing to run the code. By focusing on pure AST (Abstract Syntax Tree) analysis, it identifies vulnerabilities and code smells instantly.
+
+#### AI Code Assistant  
+An intelligent coding companion designed to streamline development workflows. It goes beyond simple autocomplete by generating meaningful logic and helping developers write better code faster.  
+🔗 https://github.com/lahiruramesh/ai-code-assistant
+
+#### Archon  
+A high-performance static analysis engine built to secure codebases without executing them. By leveraging pure AST (Abstract Syntax Tree) analysis, it instantly detects vulnerabilities and code quality issues.  
+🔗 https://github.com/lahiruramesh/archon
+
+---
 
 ### 🛡️ Security & Performance
-* **[Web Sec Scanner](https://github.com/lahiruramesh/web-sec-scanner)** A proactive tool for identifying vulnerabilities before they become threats. Essential for modern web compliance.
-* **[Go-SAST](https://github.com/lahiruramesh/go-sast)** Static Analysis Security Testing tailored for Go, ensuring high-performance applications remain secure at the source level.
+
+#### Web Sec Scanner  
+A proactive security tool that identifies vulnerabilities before they become real threats. Ideal for maintaining modern web security standards and compliance.  
+🔗 https://github.com/lahiruramesh/web-sec-scanner
+
+#### Go-SAST  
+A Static Application Security Testing tool built specifically for Go. It helps ensure high-performance Go applications remain secure at the source code level.  
+🔗 https://github.com/lahiruramesh/go-sast
+
+---
 
 ### 📱 Real-World Applications
-* **[Paws Live](https://github.com/lahiruramesh/paws-live)** A dynamic platform bringing real-time interaction to pet lovers and services.
-* **[Smart Split](https://github.com/lahiruramesh/smart-split)** Taking the headache out of shared finances with an intuitive, automated micro-service extraction.
+
+#### Paws Live  
+A dynamic platform that enables real-time interaction between pet owners and service providers.  
+🔗 https://github.com/lahiruramesh/paws-live
+
+#### Smart Split  
+An intuitive platform that simplifies context-aware decomposition monolthic application to micro-services.  
+🔗 https://github.com/lahiruramesh/smart-split
 
 ---
 
 ## 🏗️ Technical Toolbox
 
 | Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React, Next.js, Three.js (3D), Tailwind CSS |
+|--------|-------------|
+| **Frontend** | React, Next.js, Three.js, Tailwind CSS |
 | **Backend** | Node.js, Go, Python (AI/ML) |
-| **Cloud/DevOps** | Docker, AWS, GCP, Terraform, GitHub Actions |
-| **Specialties** | AI Integration, SAST, Full Stack Architecture |
+| **Cloud / DevOps** | Docker, AWS, GCP, Terraform, GitHub Actions |
+| **Specialties** | AI Integration, Static Analysis Security (SAST), Full Stack Architecture |
 
 ---
 
-## 🤝 Let's Collaborate
-I am always open to collaborating on **AI-driven tools** or **SaaS architecture**. If you're interested in my consulting services, visit [Sylonik.se](https://sylonik.se).
+## 🤝 Let’s Collaborate
 
-"Building the future, one commit at a time."
+I’m always open to collaborating on:
+
+- AI-driven developer tools  
+- SaaS platforms  
+- Security and static analysis tools  
+- Cloud-native architectures  
+
+If you're interested in consulting or collaboration, visit:  
+🌐 https://sylonik.se
+
+---
+
+> **Building the future, one commit at a time.**
